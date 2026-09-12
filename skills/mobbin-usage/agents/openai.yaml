@@ -1,0 +1,11 @@
+interface:
+  display_name: "Mobbin research"
+  short_description: "Study shipped screens, flows, and website sections with Mobbin, then build from the evidence."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "mobbin"
+      description: "Mobbin's official design-reference MCP server"
+      transport: "streamable_http"
+      url: "https://api.mobbin.com/mcp"

@@ -1,0 +1,15 @@
+Mobbin Skills
+Copyright (c) 2026 AragornAms
+
+This project is adapted from "appllama-skills":
+https://github.com/Appllama/appllama-skills
+
+The original project is Copyright (c) 2026 Antmind Ventures Private Limited
+(appllama.io) and is distributed under the MIT License. The original MIT
+copyright and permission notice are preserved in LICENSE.
+
+The adaptation changes product names, MCP configuration, tool guidance, and
+research workflows for use with Mobbin's official MCP server. It is an
+independent community project and is not affiliated with or endorsed by Mobbin
+or Appllama.
+

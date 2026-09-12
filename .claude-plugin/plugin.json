@@ -1,0 +1,25 @@
+{
+  "name": "mobbin-skills",
+  "displayName": "Mobbin Skills",
+  "version": "1.0.0",
+  "description": "Community agent skills for researching shipped UI with Mobbin and building native-quality mobile experiences from the evidence.",
+  "author": {
+    "name": "AragornAms",
+    "url": "https://github.com/AragornAms"
+  },
+  "homepage": "https://github.com/AragornAms/mobbin-skills",
+  "repository": "https://github.com/AragornAms/mobbin-skills",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mobbin",
+    "design",
+    "ui",
+    "ux",
+    "ios",
+    "mobile",
+    "expo",
+    "react-native"
+  ]
+}
+

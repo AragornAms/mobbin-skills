@@ -1,0 +1,26 @@
+{
+  "name": "mobbin-skills",
+  "displayName": "Mobbin Skills",
+  "version": "1.0.0",
+  "description": "Community skills for Mobbin-backed product design research and native-quality mobile implementation.",
+  "author": {
+    "name": "AragornAms"
+  },
+  "homepage": "https://github.com/AragornAms/mobbin-skills",
+  "repository": "https://github.com/AragornAms/mobbin-skills",
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "plugin",
+    "mcp",
+    "mobbin",
+    "design",
+    "ui",
+    "ux",
+    "ios",
+    "mobile",
+    "skills"
+  ],
+  "mcpServers": "mcp.json"
+}
+
