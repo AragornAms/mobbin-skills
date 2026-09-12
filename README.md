@@ -4,10 +4,6 @@ Two complementary agent skills for researching shipped product interfaces with
 [Mobbin](https://mobbin.com) and turning those references into polished,
 native-feeling mobile experiences.
 
-> [!IMPORTANT]
-> This is an independent, community-maintained project. It is not affiliated
-> with, endorsed by, or sponsored by Mobbin.
-
 ## The skills
 
 | Skill | What it does |
@@ -76,16 +72,5 @@ Official setup instructions: [docs.mobbin.com/mcp](https://docs.mobbin.com/mcp)
 
 > Compare how strong fitness apps structure onboarding, including permission
 > timing, personalization, navigation presentation, and paywall placement.
-
-## Attribution and license
-
-This repository is adapted from
-[Appllama's `appllama-skills`](https://github.com/Appllama/appllama-skills),
-which is available under the MIT License. The original copyright and license
-notice are preserved in [LICENSE](LICENSE), and adaptation details are recorded
-in [NOTICE](NOTICE).
-
-Mobbin is a trademark of its respective owner. This license covers the code and
-documentation in this repository; it does not grant rights to Mobbin's name,
 logo, service, or content.
 
